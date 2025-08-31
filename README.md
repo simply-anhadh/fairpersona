@@ -24,9 +24,6 @@ Users take **AI-driven adaptive skill tests**, mint **SoulBound NFTs** as proof 
 │── storage/ # IPFS/Pinata integration for certificates
 │── docs/ # Documentation and pitch assets
 
-yaml
-Copy code
-
 ---
 
 ## 🛠 Tech Stack  
