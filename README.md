@@ -1,52 +1,46 @@
-0001_FairPersona
-Project Information
+# FairPersona – AI-Powered Verifiable Digital Identity  
 
-Team Name: FairPersona Team
+## 🚀 Overview  
+FairPersona is an **AI × Web3 platform** that replaces fake resumes with **verifiable skill identities**.  
+Users take **AI-driven adaptive skill tests**, mint **SoulBound NFTs** as proof of expertise, and grow RPG-style digital Personas with **reputation points and leaderboards** — creating a **trusted, global talent marketplace**.  
 
-Project Name: FairPersona – AI-Powered Verifiable Digital Identity
+---
 
-Project Description:
-FairPersona is an AI × Web3 platform that replaces fake resumes with verifiable skill identities. Users take AI-driven adaptive skill tests, mint SoulBound NFTs as proof of expertise, and grow RPG-style digital Personas with reputation points and leaderboards — creating a trusted, global talent marketplace.
+## 📂 Folder Structure  
 
-Track: AI for Social Good / AI + Web3
-
-Folder Structure
-0001_FairPersona/  
-│── frontend/      # Next.js, TailwindCSS, Framer Motion  
-│── backend/       # Node.js + Express + PostgreSQL  
-│── ai/            # OpenAI GPT-4 adaptive test generation  
-│── blockchain/    # Solidity contracts (Polygon, SoulBound NFTs)  
-│── storage/       # IPFS/Pinata integration for certificates  
-│── docs/          # Documentation and pitch assets  
-
-Tech Stack
-
-Frontend: Next.js (React), TailwindCSS, Framer Motion
-
-Backend: Node.js (Express), PostgreSQL
-
-AI Layer: OpenAI GPT-4 / fine-tuned LLMs for adaptive test generation & evaluation
-
-Web3: Solidity smart contracts, Polygon (SoulBound NFTs), Ethers.js, MetaMask
-
-Storage: IPFS via Pinata
-
-Auth: Hybrid Email/Password + Web3 wallet login
-
-Getting Started
-
-Clone the repository:
-
-git clone https://github.com/your-username/fairpersona.git
-cd fairpersona
+0001_FairPersona/
+│── frontend/ # Next.js, TailwindCSS, Framer Motion
+│── backend/ # Node.js + Express + PostgreSQL
+│── ai/ # OpenAI GPT-4 adaptive test generation
+│── blockchain/ # Solidity contracts (Polygon, SoulBound NFTs)
+│── storage/ # IPFS/Pinata integration for certificates
+│── docs/ # Documentation and pitch assets
 
 
-Install dependencies:
+---
+
+## 🛠 Tech Stack  
+
+- **Frontend**: Next.js (React), TailwindCSS, Framer Motion  
+- **Backend**: Node.js (Express), PostgreSQL  
+- **AI Layer**: OpenAI GPT-4 / fine-tuned LLMs for adaptive test generation & evaluation  
+- **Web3**: Solidity smart contracts, Polygon (SoulBound NFTs), Ethers.js, MetaMask  
+- **Storage**: IPFS via Pinata  
+- **Auth**: Hybrid Email/Password + Web3 wallet login  
+
+---
+
+## ⚙️ Getting Started  
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/your-username/fairpersona.git
+   cd fairpersonaInstall dependencies
 
 npm install
 
 
-Configure environment:
+Configure environment
 
 Add Firebase credentials
 
@@ -56,26 +50,26 @@ Add Pinata IPFS credentials
 
 Add deployed contract address (Polygon)
 
-Run development server:
+Run development server
 
 npm run dev
 
 
-Build for production:
+Build for production
 
 npm run build
 
-Impact
+🌍 Impact & Use Cases
 
-For Students/Freelancers → Build portable, verifiable resumes
+Students/Freelancers → Build portable, verifiable resumes
 
-For Employers/Recruiters → Instant skill verification saves time & cost
+Employers/Recruiters → Instant skill verification saves time & cost
 
-For Universities/Bootcamps → Issue AI-tested on-chain skill certificates
+Universities/Bootcamps → Issue AI-tested on-chain skill certificates
 
-For DAOs/Communities → Transparent and fair contributor evaluation
+DAOs/Communities → Transparent and fair contributor evaluation
 
-Roadmap
+🗺 Roadmap
 
  Mobile App Release (Expo)
 
@@ -87,4 +81,4 @@ Roadmap
 
  Gamification (XP, Levels, Badges)
 
-🔥 Built with ❤️ by the FairPersona Team for the OpenXAI Global AI Accelerator.
+🔥 Built with ❤️ by the FairPersona Team for the OpenXAI Global AI Accelerator
