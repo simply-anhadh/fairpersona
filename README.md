@@ -41,7 +41,7 @@ Users take **AI-driven adaptive skill tests**, mint **SoulBound NFTs** as proof 
 
 
 # Clone the repository
-git clone https://github.com/your-username/fairpersona.git
+git clone https://github.com/simply-anhadh/fairpersona.git
 cd fairpersona
 
 # Install dependencies
